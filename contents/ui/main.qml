@@ -6,7 +6,7 @@ Item {
     id: root
     AnimatedImage {
         id: animation
-        source: "animation.gif"
+        source: wallpaper.configuration.Video
         fillMode: Image.Stretch
         width: root.width
         height: root.height

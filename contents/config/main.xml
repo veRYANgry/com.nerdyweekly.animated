@@ -10,6 +10,14 @@
       <label>Apply blur over animated GIF - Good for lock screen</label>
       <default>false</default>
     </entry>
+    <entry name="Video" type="String">
+      <label>Video file path</label>
+      <default></default>
+    </entry>
+    <entry name="Folder" type="String">
+      <label>Last folder used</label>
+      <default></default>
+    </entry>
   </group>
 
 </kcfg>
