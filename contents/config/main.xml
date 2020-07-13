@@ -10,8 +10,20 @@
       <label>Apply blur over animated GIF - Good for lock screen</label>
       <default>false</default>
     </entry>
-    <entry name="Video" type="String">
-      <label>Video file path</label>
+    <entry name="Video1" type="String">
+      <label>Video file path for desk1</label>
+      <default></default>
+    </entry>
+    <entry name="Video2" type="String">
+      <label>Video file path2</label>
+      <default></default>
+    </entry>
+    <entry name="Video3" type="String">
+      <label>Video file path3</label>
+      <default></default>
+    </entry>
+    <entry name="Video4" type="String">
+      <label>Video file path4</label>
       <default></default>
     </entry>
     <entry name="Folder" type="String">
